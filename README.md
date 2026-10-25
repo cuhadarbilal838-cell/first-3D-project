@@ -18,3 +18,5 @@ A basic 3D scene built with C++ and Raylib. This project demonstrates how to set
 2. Compile the code using the following command (Windows example):
    ```bash
    g++ main.cpp -o runner -lraylib -lopengl32 -lgdi32 -lwinmm
+
+   ./runner
